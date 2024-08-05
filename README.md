@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theliwash
-- 👀 I’m interested in data
-- 🌱 I’m currently learning the inner-workings of data
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning the inner-workings of data science, Gen AI and much more
 - 📫 How to reach me - https://www.linkedin.com/in/liwash-saikia/
 - ⚡ Fun fact: Dragonflies have a 95% hunt success rate. Making them the most effective hunters in the world.
 
